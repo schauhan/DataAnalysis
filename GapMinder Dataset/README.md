@@ -13,3 +13,8 @@ Here are the links to view these files in your browser:
 - [Cleaning Data](http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/cleaning-data.html)
 - [Reshaping Data](http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/reshaping-datasets.html)
 - [Visualizing Data](http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/vizualizations.html)
+
+### Jupyter Notebook files:
+- [Cleaning Data](https://nbviewer.jupyter.org/github/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/cleaning-data.ipynb)
+- [Reshaping Data](https://nbviewer.jupyter.org/github/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/reshaping-datasets.ipynb)
+- [Visualizing Data](https://nbviewer.jupyter.org/github/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/vizualizations.ipynb)
