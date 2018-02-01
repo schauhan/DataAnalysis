@@ -10,6 +10,6 @@ I have performed the analysis using the regular 3-step process.
 Here are the links to view these files in your browser:
 
 ### HTML files:
-http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/cleaning-data.html
-http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/reshaping-datasets.html
-http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/vizualizations.html
+- [Cleaning Data](http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/cleaning-data.html)
+- [Reshaping Data](http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/reshaping-datasets.html)
+- [Visualizing Data](http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/vizualizations.html)
