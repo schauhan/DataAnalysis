@@ -8,4 +8,8 @@ I have performed the analysis using the regular 3-step process.
 3. **Visualizing** the cleaned data using Pandas, matplotlib, numpy and other tools in the Python domain.
 
 Here are the links to view these files in your browser:
-HTML files:
+
+### HTML files:
+http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/cleaning-data.html
+http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/reshaping-datasets.html
+http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/vizualizations.html
