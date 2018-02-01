@@ -1,6 +1,8 @@
 # GapMinder Dataset
 
-This is a project I worked on for evaluation purposes. I have chosen 3 independent datasets from the website GapMinder World (https://www.gapminder.org/data/) and have attempted to analyze them, trying to see if there is any correlation between the datasets.
+This is a project I worked on for evaluation purposes. I have chosen 3 independent datasets from the website [GapMinder World](https://www.gapminder.org/data/) and have attempted to analyze them, trying to see if there is any correlation between the datasets.
+
+GapMinder is a non-profit organization that make data on socio-economic factors from around the world available for analysis. The datasets that I have chosen for this analysis are **Inflation, Life Expectancy at Birth,** and **Forest Coverage**. I am interested in analyzing these datasets separately and then finding out whether there exists a correlation between them.  
 
 I have performed the analysis using the regular 3-step process.
 1. **Cleaning** the data downloaded and removing any bad data
@@ -18,3 +20,6 @@ Here are the links to view these files in your browser:
 - [Cleaning Data](https://nbviewer.jupyter.org/github/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/cleaning-data.ipynb)
 - [Reshaping Data](https://nbviewer.jupyter.org/github/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/reshaping-datasets.ipynb)
 - [Visualizing Data](https://nbviewer.jupyter.org/github/schauhan/DataAnalysis/blob/master/GapMinder%20Dataset/vizualizations.ipynb)
+
+
+All the files have explantion and conclusions embedded between the analysis. The tools used for this analysis include **Python, numPy, matplotlib, and Pandas**
