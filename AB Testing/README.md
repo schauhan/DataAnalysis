@@ -8,7 +8,7 @@ I have included a small discussion about the comparison of the above two models.
 
 
 ### HTML file:
-- [Analyze_ab_test_results_notebook.html]()
+- [Analyze_ab_test_results_notebook.html](http://htmlpreview.github.io/?https://github.com/schauhan/DataAnalysis/blob/master/AB%20Testing/Analyze_ab_test_results_notebook.html)
 
 ### Jupyter Notebook file:
 - [Analyze_ab_test_results_notebook.ipynb](https://nbviewer.jupyter.org/github/schauhan/DataAnalysis/blob/master/AB%20Testing/Analyze_ab_test_results_notebook.ipynb)
