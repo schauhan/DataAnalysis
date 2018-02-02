@@ -4,7 +4,7 @@ In this project I use statistical analysis to compare the user conversion rate o
 1. **A/B Testing** - Here I form the null and alternate hypothesis. In this case I create sampling distributions for the treatment and control pages (new and old web pages respectively). I compare the distribution mean with the null hypothesis mean to decide if the alternative hypothesis is definitely better than the null.
 2. **Logistic Regression** - Here I perform simple logistic regression and see how much more the user is likely to convert if he/she is shown the new page.
 
-I have included a small discussion about the comparison of the above two models. In the end I do a final regression analysis to check if the geographical region if the user has any correlation with the conversion rate for the new page.
+I have included a small discussion about the comparison of the above two models. In the end I do a final regression analysis to check whether the geographical region of the user has any correlation with the conversion rate for the new page.
 
 
 ### HTML file:
